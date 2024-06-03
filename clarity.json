@@ -1,0 +1,9 @@
+{
+    "contracts": {
+      "test-token": "contracts/test-token.clar"
+    },
+    "tests": {
+      "test-token-test": "tests/test-token-test.clar"
+    }
+  }
+  
